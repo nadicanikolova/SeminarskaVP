@@ -2,7 +2,7 @@
 ============
 <img src="http://i.imgur.com/BWdVBEm.png?1" alt="pocetna" align="left" ></img>
 Она што ние го направивме е апликација која во себе содржи четири игри. Тоа се игрите : </br>
-&nbsp;<ul margin="5px">
+<ul>
 <li>Повторување;</li>
 <li>Змија;</li>
 <li>Милионер;</li>
