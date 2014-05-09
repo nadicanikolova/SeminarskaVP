@@ -105,7 +105,7 @@ private void pictureBox1_Paint(object sender, PaintEventArgs e)
 <p>Изгледот на главната апликација е прикажан на насловната страна.
 Изглед на Милионер и Камен, ножици, лист формата:
 </p>
-<p style="text-align:center">
+<p style="text-align:center, display:block, margin: 0 auto;">
 <img src="http://i.imgur.com/f4XkWwy.png?2" alt="milioner" ></img>
 <img src="http://i.imgur.com/lJ0hbmN.png?1" alt="snake"></img>
 <img src="http://i.imgur.com/7uGWjzT.png?1" alt="rock"></img>
