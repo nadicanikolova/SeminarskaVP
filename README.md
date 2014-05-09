@@ -8,6 +8,7 @@
 <li>Милионер;</li>
 <li>Камен ,лист, ножици</li>
 </ul>
+<img src="http://i.imgur.com/BWdVBEm.png?1" alt="pocetna" align="left" ></img>
 
 <p align="justify">Повторување е симулација на играта позната како Simon (www.freesimon.org) .  Змија е симулација на играта Snake (http://playsnake.org/).  Милионер е симулација на квизот „Кој сака да биде Милионер“. Камен, лист, ножици е симулација на истоимената детска игра.</p>
   </br></br>
