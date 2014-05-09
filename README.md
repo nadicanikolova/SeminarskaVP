@@ -1,6 +1,6 @@
 Збир игри
 ============
-<img src="http://i.imgur.com/LaFtJLh.png" alt="pocetna" align="left" ></img>
+<img src="http://i.imgur.com/rBGvLvy.png?1" alt="pocetna" align="left" ></img>
 Она што ние го направивме е апликација која во себе содржи четири игри. Тоа се игрите : </br>
 
 <ul>
@@ -66,7 +66,7 @@ private void pictureBox1_Paint(object sender, PaintEventArgs e)
             if ((game.snake.snake[0].X == game.food.X && game.snake.snake[0].Y == game.food.Y))
             {
                 game.snake.addCircle();
-                game.NovaKrofna(g);
+                game.NovaKrofna();
                 game.Poeni++;
                 flag = true;
             }
