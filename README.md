@@ -87,7 +87,7 @@ private void pictureBox1_Paint(object sender, PaintEventArgs e)
                 prevX = game.snake.snake[0].X;
                 game.snake.snake[0].Y -= 20;
             }
-            for (int i = 1; i < game.snake.snake.Count; i++)
+            for (int i = 1; i &lt; game.snake.snake.Count; i++)
             {
 
                 b = Brushes.Red;
@@ -105,7 +105,7 @@ private void pictureBox1_Paint(object sender, PaintEventArgs e)
 <p>Изгледот на главната апликација е прикажан на насловната страна.
 Изглед на Милионер и Камен, ножици, лист формата:
 </p>
-<img src="http://i.imgur.com/f4XkWwy.png?1" alt="milioner"></img>
-<img src="http://i.imgur.com/lJ0hbmN.png?1" alt="snake"></img>
+<img src="http://i.imgur.com/f4XkWwy.png?2" alt="milioner"></img>
+<img src="http://i.imgur.com/lJ0hbmN.png?1" alt="snake"></img></br>
 <img src="http://i.imgur.com/7uGWjzT.png?1" alt="rock"></img>
 <img src="http://i.imgur.com/NtCXhPa.png?1" alt="simon"></img>
